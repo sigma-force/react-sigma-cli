@@ -1,0 +1,15 @@
+{
+  "name": "react-cli",
+  "version": "1.0.0",
+  "description": "npm install react-cli",
+  "main": "src/index.js",
+  "bin": {
+    "react-cli": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "author": "@cosmosoftroot <cosmosoft.soluciones@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "shelljs": "^0.8.3"
+  }
+}
