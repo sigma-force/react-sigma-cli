@@ -14,6 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sigma-force/react-sigma-cli.git"
+    "url": "git+https://github.com/sigma-force/react-sigma-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sigma-force/react-sigma-cli/issues"
+  },
+  "homepage": "https://github.com/sigma-force/react-sigma-cli#readme",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
