@@ -1,5 +1,5 @@
 {
-  "name": "react-cli",
+  "name": "react-sigma-cli",
   "version": "1.0.0",
   "description": "Framework for React",
   "main": "src/index.js",
