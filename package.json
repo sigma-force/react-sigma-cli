@@ -1,10 +1,10 @@
 {
   "name": "react-cli",
   "version": "1.0.0",
-  "description": "npm install react-cli",
+  "description": "Framework for React",
   "main": "src/index.js",
   "bin": {
-    "react-cli": "bin/global.js"
+    "react-sigma-cli": "bin/global.js"
   },
   "preferGlobal": true,
   "author": "@cosmosoftroot <cosmosoft.soluciones@gmail.com>",
