@@ -40,7 +40,7 @@ const run = async () => {
   fs.writeFileSync('package.json', data)
   shell.exec(`npm install`);
   shell.rm('-r','.git');
-  shell.exec(`git init && git add . && git commit -m"initial commit"`);
+  shell.exec(`git init && git add . && git commit -m "initial commit"`);
 }
 
 run();
