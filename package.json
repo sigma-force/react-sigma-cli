@@ -1,7 +1,7 @@
 {
-    "name": "@react/cli",
+    "name": "@sigma-force/react-sigma-cli",
     "version": "2.0.1-omega",
-    "description": "This is the react framework",
+    "description": "@sigma-force/react-sigma-cli is a framework for React that allows you to take this library to another level, integrate the best practices in the industry into your projects.",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
     "bin": {
@@ -21,8 +21,8 @@
         "url": "git+https://github.com/sigma-force/react-cli.git"
     },
     "engines": {
-        "node": "10.x",
-        "npm": "6.x"
+        "node": "^10.x",
+        "npm": "^6.x"
     },
     "author": "Sigma-Force Team",
     "license": "MIT",
