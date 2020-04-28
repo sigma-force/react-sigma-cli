@@ -21,8 +21,8 @@
         "url": "git+https://github.com/sigma-force/react-cli.git"
     },
     "engines": {
-        "node": "^10.x",
-        "npm": "^6.x"
+        "node": ">10.x",
+        "npm": ">6.x"
     },
     "author": "Sigma-Force Team",
     "license": "MIT",
