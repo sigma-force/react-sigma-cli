@@ -1,6 +1,6 @@
 {
     "name": "@sigma-force/react-sigma-cli",
-    "version": "2.0.1-omega",
+    "version": "3.0.0",
     "description": "@sigma-force/react-sigma-cli is a framework for React that allows you to take this library to another level, integrate the best practices in the industry into your projects.",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
