@@ -1,12 +1,12 @@
 # @sigma-force/react-sigma-cli
 
-**@react/cli** is a framework for **React** that allows you to take this library to another level, integrate the best practices in the industry into your projects.
+**react-sigma-cli** is a framework for **React** that allows you to take this library to another level, integrate the best practices in the industry into your projects.
 
 _You have the idea, **react-sigma-cli** accompanies you to create it_
 
 ## Why use `react-sigma-cli`?
 
-By implementing @react/cli in your project will be have:
+By implementing `react-sigma-cli` in your project will be have:
 
 - Installation optimized for removing unnecessary code.
 - @react/cli organizes your project in a modular structure, generating a more consistent and ordered code
