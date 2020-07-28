@@ -19,14 +19,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sigma-force/react-cli.git"
+    "url": "https://github.com/sigma-force/react-sigma-cli.git"
   },
   "author": "Sigma-Force Team",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sigma-force/react-cli/issues"
+    "url": "https://github.com/sigma-force/react-sigma-cli/issues"
   },
-  "homepage": "https://github.com/sigma-force/react-cli#readme",
+  "homepage": "https://github.com/sigma-force/react-sigma-cli#readme",
   "dependencies": {
     "@inquirer/input": "0.0.9-alpha.0",
     "chalk": "^4.0.0",
