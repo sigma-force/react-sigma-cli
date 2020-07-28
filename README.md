@@ -28,22 +28,7 @@ Before you start using **react-sigma-cli** you must have installed:
 
 ## Getting Started
 
-Create a new app
 
-    react new <app-name>
-
-During the creation of the app you will be asked some questions, answer according to the configuration of your project.
-
-    Does your app require a router? (Yes or No)
-    Does your application require a css preprocessor? (Yes or No)
-    Choose a preprocessor of your choice
-    1. Sass
-    2. Less
-    3. Stylus
-
-Done!!! now start the server to see your app
-
-    react serve
 
 ## Authors
 
