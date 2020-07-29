@@ -1,8 +1,8 @@
 ---
-name: React-Sigma-CLI
+name: React Sigma CLI Feature request
 about: Suggest a new idea for the project.
 title: RSC-
-labels: feature
+labels: ''
 assignees: ''
 
 ---
