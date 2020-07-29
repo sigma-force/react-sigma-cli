@@ -1,22 +1,34 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
+name: "React-Sigma-CLI"
+about: Suggest a new idea for the project.
+title: RSC-
+labels: feature
 assignees: ''
 
 ---
 
-<!-- Thanks so much for your PR, your contribution is appreciated! -->
+<!-- Provide a general summary of the feature in the Title above -->
 
 ## Checklist ✅
 
-- [ ] I have followed the [contributor guideline](https://github.com/Sphinx-Society/kaizen-web-client/blob/master/CONTRIBUTING.md)
-- [ ] Tests are included
-- [ ] Documentation is changed or added
-- [ ] Related issue has been created
-- [ ] Commits messages follows [commit guideline](https://github.com/Sphinx-Society/kaizen-web-client/blob/master/CONTRIBUTING.md/#Commits)
+<!--
+  Thank you very much for contributing to Kaizen by creating an issue!
+  To avoid duplicate issues we ask you to check off the following list.
+-->
 
-resolves [Issue ID]
+<!-- Checked checkbox should look like this: [x] -->
 
-<!-- Replace [Issue ID] with the issue id -->
+- [ ] The issue is present in the latest release.
+- [ ] I have searched the [issues](https://github.com/Sphinx-Society/kaizen-web-client/issues) of this repository and believe that this is not a duplicate.
+
+## Summary 💡
+
+<!-- Describe how it should work. -->
+
+## Requirements 🌈
+
+<!-- Provide a description of the requirements the feature should accomplish. -->
+
+## Motivation 🔦
+
+<!-- What are you trying to accomplish? How has the lack of this feature affected you? -->
