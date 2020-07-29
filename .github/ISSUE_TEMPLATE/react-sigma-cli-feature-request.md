@@ -1,7 +1,7 @@
 ---
 name: React Sigma CLI Feature request
 about: Suggest a new idea for the project.
-title: RSC-
+title: SFR-
 labels: ''
 assignees: ''
 
@@ -19,7 +19,7 @@ assignees: ''
 <!-- Checked checkbox should look like this: [x] -->
 
 - [ ] The issue is present in the latest release.
-- [ ] I have searched the [issues](https://github.com/Sphinx-Society/kaizen-web-client/issues) of this repository and believe that this is not a duplicate.
+- [ ] I have searched the [issues](https://github.com/sigma-force/react-base-typescript/issues) of this repository and believe that this is not a duplicate.
 
 ## Summary 💡
 
