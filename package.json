@@ -9,7 +9,7 @@
   },
   "preferGlobal": true,
   "scripts": {
-    "start": "nodemon --watch src --ext ts --exec ts-node --ignore '*.test.ts' --delay 1 src/index.ts",
+    "start": "node ./dist/index.js",
     "create": "npm run build && npm run test",
     "build": "tsc -p .",
     "test": "npm i -g",
