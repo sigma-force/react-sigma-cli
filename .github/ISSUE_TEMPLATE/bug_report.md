@@ -21,7 +21,7 @@ assignees: ''
 ## Checklist ✅
 
 <!--
-  Thank you very much for contributing to Kaizen by creating an issue!
+  Thank you very much for contributing to React Sigma CLI by creating an issue!
   To avoid duplicate issues we ask you to check off the following list.
 -->
 
@@ -63,6 +63,6 @@ Steps:
 | Tech                 | Version |
 | -------------------- | ------- |
 | React CLI               | v?.?.?  |
-| Node version     |         |
-| NPM version         |         |
+| Node    |         |
+| NPM      |         |
 | etc.                 |         |
