@@ -15,7 +15,8 @@
     "test": "npm i -g",
     "refresh": "rm -rf ./node_modules ./package-lock.json && npm install",
     "format": "prettier --write '{*.ts,src/**/*.{ts}}'",
-    "lint": "eslint src/**/**/** --fix"
+    "lint": "eslint src/**/**/** --fix",
+    "doc": "typedoc --out docs   "
   },
   "repository": {
     "type": "git",
@@ -50,10 +51,12 @@
     "eslint-config-prettier": "^6.6.0",
     "eslint-plugin-prettier": "^3.1.1",
     "husky": "^3.1.0",
+    "jsdoc": "^3.6.5",
     "lint-staged": "^9.4.3",
     "nodemon": "^2.0.3",
     "prettier": "^1.19.1",
     "ts-node": "^8.9.1",
+    "typedoc": "^0.17.8",
     "typescript": "^3.8.3"
   },
   "husky": {
