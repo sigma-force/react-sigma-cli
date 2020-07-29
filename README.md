@@ -69,6 +69,15 @@ To automatically fix formatting problems use
 
 	npm uninstall -g @sigma-force/react-sigma-cli
 
+## Documentation
+
+You can find the Kaizen Web Client documentation [on Notion](https://www.notion.so/rulocode/React-cli-7cb832838b334971a37f8b2b8ed9d17e).
+
+The documentation is divided into several sections:
+
+* [Requirements](https://www.notion.so/rulocode/Requirements-75bb9d70b2b94d2abe1070756025a483)
+
+
 ## Authors
 
 <p style='margin-bottom:15px;'>
@@ -95,6 +104,16 @@ To automatically fix formatting problems use
 		Andrés Santana
 	</a>
 </div>
+
+
+## Contributing
+
+Thank you for being here, we're really happy you decided to contribute to the project.
+
+Before you contribute to the project please make sure to read all items below.
+
+* [Contributing Guide](/CONTRIBUTING.md)
+
 
 ## Sponsors
 
