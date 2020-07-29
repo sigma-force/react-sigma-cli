@@ -22,28 +22,52 @@ Before you start using **react-sigma-cli** you must have installed:
 - `NodeJS Version 12.16.1` or higher
 - `npm Version 6.14.4` or higher
 
-## Installation
-
-    npm install -g @sigma-force/react-sigma-cli
 
 ## Getting Started
 
-Create a new app
+### Installation
 
-    react new <app-name>
+The dependency `@sigma-force/react-sigma-cli` must be installed globally. 
 
-During the creation of the app you will be asked some questions, answer according to the configuration of your project.
+    npm install -g @sigma-force/react-sigma-cli
 
-    Does your app require a router? (Yes or No)
-    Does your application require a css preprocessor? (Yes or No)
-    Choose a preprocessor of your choice
-    1. Sass
-    2. Less
-    3. Stylus
+**Note:** if you require administrative permission use `sudo` for your installation
+ 
+	sudo npm install -g @sigma-force/react-sigma-cli
 
-Done!!! now start the server to see your app
 
-    react serve
+### Start new project
+
+1. Run in the terminal 
+
+		react-sigma-cli
+
+2. Insert the name of the project
+
+![start react-sigma-cli](./.readme-static/start-cli.png) 
+
+
+### scripts
+
+For start in **developer** mode run in the terminal
+
+	npm run start
+
+For create a bundle for production, run the next comand
+
+	npm run build
+
+To check the code for formatting problems use
+
+	npm run format
+
+To automatically fix formatting problems use
+
+	npm run lint
+
+### Uninstall
+
+	npm uninstall -g @sigma-force/react-sigma-cli
 
 ## Authors
 
