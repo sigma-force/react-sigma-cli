@@ -28,7 +28,7 @@ assignees: ''
 <!-- Checked checkbox should look like this: [x] -->
 
 - [ ] The issue is present in the latest release.
-- [ ] I have searched the [issues](https://github.com/Sphinx-Society/kaizen-web-client/issues) of this repository and believe that this is not a duplicate.
+- [ ] I have searched the [issues](https://github.com/sigma-force/react-sigma-cli/issues) of this repository and believe that this is not a duplicate.
 
 ## Current Behavior 😯
 
@@ -63,6 +63,6 @@ Steps:
 | Tech                 | Version |
 | -------------------- | ------- |
 | React CLI               | v?.?.?  |
-| Chrome (Browser)     |         |
-| Windows (OS)         |         |
+| Node version     |         |
+| NPM version         |         |
 | etc.                 |         |
