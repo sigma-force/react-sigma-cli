@@ -75,5 +75,5 @@ git commit -m 'SFR-1 Added typescript implementacion to also manage typescrip pr
 
 ## License
 
-By contributing your code to the sphinx-society/kaizen-web-client GitHub repository, you agree to license your contribution under the [MIT license](/LICENSE).
+By contributing your code to the React Sigma CLI GitHub repository, you agree to license your contribution under the [MIT license](/LICENSE).
 
