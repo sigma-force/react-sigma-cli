@@ -1,3 +1,6 @@
+/**
+ * A default Package.json to the project
+ */
 const defaultPackage = {
   name: "",
   version: "1.0.0",
