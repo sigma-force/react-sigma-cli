@@ -1,20 +1,12 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: ''
+title: 'SFR-'
 labels: ''
 assignees: ''
 
 ---
 
----
-name: React Sigma CLI Feature request
-about: Suggest a new idea for the project.
-title: SFR-
-labels: ''
-assignees: ''
-
----
 
 <!-- Provide a general summary of the feature in the Title above -->
 
