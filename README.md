@@ -22,13 +22,52 @@ Before you start using **react-sigma-cli** you must have installed:
 - `NodeJS Version 12.16.1` or higher
 - `npm Version 6.14.4` or higher
 
-## Installation
-
-    npm install -g @sigma-force/react-sigma-cli
 
 ## Getting Started
 
+### Installation
 
+The dependency `@sigma-force/react-sigma-cli` must be installed globally. 
+
+    npm install -g @sigma-force/react-sigma-cli
+
+**Note:** if you require administrative permission use `sudo` for your installation
+ 
+	sudo npm install -g @sigma-force/react-sigma-cli
+
+
+### Start new project
+
+1. Run in the terminal 
+
+		react-sigma-cli
+
+2. Insert the name of the project
+
+![start react-sigma-cli](./.readme-static/start-cli.png) 
+
+
+### scripts
+
+For start in **developer** mode run in the terminal
+
+	npm run start
+
+For create a bundle for production, run the next comand
+
+	npm run build
+
+To check the code for formatting problems use
+
+	npm run format
+
+To automatically fix formatting problems use
+
+	npm run lint
+
+### Uninstall
+
+	npm uninstall -g @sigma-force/react-sigma-cli
 
 ## Authors
 
