@@ -69,7 +69,7 @@ git commit -m 'SFR-1 Added typescript implementacion to also manage typescrip pr
 
 ### Before creating a pull request please
 
-- Make sure you created an [Issue]() related to it and you're following the [issues section](#Issues) recommendations 
+- Make sure you created an [Issue](https://github.com/sigma-force/react-sigma-cli/blob/master/CONTRIBUTING.md#Issues) related to it and you're following the [issues section](#Issues) recommendations 
 - Make sure you're following the [branches section](#Branches) recommendations
 - Make sure you're following the [commits section](#Commits) recommendations
 
