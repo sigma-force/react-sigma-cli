@@ -1,7 +1,7 @@
 ---
 name: React Sigma CLI Feature request
 about: Suggest a new idea for the project.
-title: RSC-
+title: SFR-
 labels: ''
 assignees: ''
 
