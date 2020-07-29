@@ -2,11 +2,11 @@
 
 ## Checklist ✅
 
-- [ ] I have followed the [contributor guideline](https://github.com/Sphinx-Society/kaizen-web-client/blob/master/CONTRIBUTING.md)
+- [ ] I have followed the [contributor guideline](https://github.com/sigma-force/react-sigma-cli/blob/master/CONTRIBUTING.md)
 - [ ] Tests are included
 - [ ] Documentation is changed or added
 - [ ] Related issue has been created
-- [ ] Commits messages follows [commit guideline](https://github.com/Sphinx-Society/kaizen-web-client/blob/master/CONTRIBUTING.md/#Commits)
+- [ ] Commits messages follows [commit guideline](https://github.com/sigma-force/react-sigma-cli/blob/master/CONTRIBUTING.md#commits)
 
 resolves [Issue ID]
 
