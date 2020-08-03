@@ -6,7 +6,7 @@
 import chalk from "chalk";
 import clear from "clear";
 import figlet from "figlet";
-import inquirer from "inquirer";
+import inquirer, { Answers } from "inquirer";
 import shell from "shelljs";
 import defaultPackage from "./tools/package";
 import fs from "fs";
